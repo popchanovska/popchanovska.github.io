@@ -7,7 +7,9 @@
     text-decoration: none;
     font-family: 'Work Sans', sans-serif;
 }
-
+html{
+   scroll-behavior: smooth;
+}
 /*navigation*/
 .wrapper{
     display: flex;
